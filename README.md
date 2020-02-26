@@ -1,2 +1,2 @@
-# mern tutorial
- 
+# MERN tutorial
+ exercise tracker
